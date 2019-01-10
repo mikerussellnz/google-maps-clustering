@@ -1,6 +1,10 @@
 # Google Maps Clustering for Android
 
-[ ![Download](https://api.bintray.com/packages/sharewire/maven/google-maps-clustering/images/download.svg) ](https://bintray.com/sharewire/maven/google-maps-clustering/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Google%20Maps%20Clustering%20for%20Android-blue.svg?style=flat)](https://android-arsenal.com/details/1/6552) <a href="http://www.methodscount.com/?lib=net.sharewire%3Agoogle-maps-clustering%3A0.1.2-beta"><img src="https://img.shields.io/badge/Methods count-193-e91e63.svg"/></a>
+Forked from sharewire/google-maps-clustering. 
+
+Fixes applied:
+1. Concurrent modification exception.
+2. Ability to disable animations. 
 
 A fast marker clustering library for Google Maps Android API.
 
