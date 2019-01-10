@@ -3,7 +3,7 @@
 Forked from sharewire/google-maps-clustering. 
 
 Fixes applied:
-1. Concurrent modification exception.
+1. Concurrent modification exception fix.
 2. Ability to disable animations. 
 
 A fast marker clustering library for Google Maps Android API.
